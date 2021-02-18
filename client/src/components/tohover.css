@@ -1,0 +1,17 @@
+.nav-link{
+   text-decoration: none;
+   color: #004dcf;
+   background: transparent;
+   padding: 8px 40px;
+   border-radius: 5px;
+   font-weight: bold;
+   text-transform: uppercase;
+   transition: all 0.2s ease-in-out;
+   border: 1px solid #7D9BCE;
+   margin: 0 10px;
+}
+
+.nav-link:hover {
+    border: 0;
+    box-shadow: 0 0 3px #77A8FC, 0 0 7px #478BFD, 0 0 20px #0C5CE3;
+}
